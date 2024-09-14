@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hello, I'm Adriano Arruda<br>and I'm currently a student at UAc (Azores University).
 🔭 I’m currently a stundent on UAc<br>🌱 I’m currently learning React
 
 
