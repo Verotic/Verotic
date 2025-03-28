@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello, my name is Adriano Arruda!<br>I'm currently a student at UAc (Azores University).<br>
-🔭 I’m currently a stundent on UAc<br>🌱 I’m currently learning React
+🌱 I’m currently learning React
 
 
 ## 🌐 Socials:
