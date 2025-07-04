@@ -1,7 +1,5 @@
 # 💫 About Me:
 Hello, my name is Adriano Arruda!<br>I'm currently a student at UAc (Azores University).<br>
-🌱 I’m currently learning React
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AdrianoFurtadoArruda/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adriano.arruda8/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-arruda-49352226b/) 
